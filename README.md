@@ -1,6 +1,6 @@
 # AI-technology-in-shaping-the-Voice-Communication-Control
-- project name
-- brief description
+
+## Description
 - author information and contact
 - prerequisites (what software is needed? What versions? Require any special packages/libraries? anything paid?)
 - data (description and citations/urls, maybe list key variables)
