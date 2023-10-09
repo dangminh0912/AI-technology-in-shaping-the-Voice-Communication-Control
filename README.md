@@ -5,10 +5,19 @@ Talking while driving: is not a good idea. Texting while driving: is downright d
 ## Author
 - Name: Minh Nguyen
 - Major: Data Analytics (Economics concentration), Minoring: Computer Science and Mathematics
-### Contact
+## Contact
 - Email: nguyen_m6@denison.edu
 - Phone number: (740)-405-6495
-### prerequisites (what software is needed? What versions? Require any special packages/libraries? anything paid?)
-### data (description and citations/urls, maybe list key variables)
-### code (what code files exist? What does each do? Is there an order needed to run them?)
+## Programming Language
+- Python and Jupiter Notebook
+- Version: 3.8.13
+- Libraries: Matplotlib/Seaborn, BeautifulSoup, PyTorch/LibROSA, Textstat.
+  
+
+## Data
+- For the dataset, I plan to utilize data from sources such as Common Voice, Urban Sound, TIMIT, and DEMAND. These sources will aid in building and assessing AI models focused on identifying sound disruptions, minimizing noise, and enhancing voice recognition in communication systems. They provide a range of scenarios, environments, and sound profiles that will assist in thorough analysis and the development of improved AI-backed Voice Communication Systems. This process includes generating a varied collection of audio recordings that simulate conversations between air traffic controllers and pilots. The variables are noise levels, accents, and terminologies. This approach will allow the advancement and evaluation of the AI-integrated VCS without violating any privacy or security standards associated with real aviation communication data.
+- The text-based analysis is performed to compare AI-generated text and human text and determine which one is easier to understand. I will use Python with the library “textstat”. This library uses the Flesch Reading Ease score: Source: https://pypi.org/project/textstat/
+This means text should be fairly easy for the average adult to read. This is the source where I will
+collect the text for the dataset, which includes 2 variables: Speaker and Conversation Text. The “Speaker” determines who is speaking in the conversation (Controller or Pilot) and the “Conversation Text” indicates the conversation between controller and pilot in the text format.
+
 
