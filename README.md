@@ -1,5 +1,4 @@
 # AI-technology-in-shaping-the-Voice-Communication-Control
-
 ## Description
 - author information and contact
 - prerequisites (what software is needed? What versions? Require any special packages/libraries? anything paid?)
